@@ -26,7 +26,6 @@ experience:
   - title: Research Intern
     company: University of Toronto CleverHans Lab
     company_url: 'https://cleverhans-lab.github.io/'
-    company_logo: org-gc
     location: Toronto
     date_start: '2021-05-01'
     date_end: ''
@@ -35,18 +34,17 @@ experience:
   - title: Electrical and Software Engineering Intern
     company: Space Tango
     company_url: 'https://spacetango.com/'
-    company_logo: org-x
     location: California
     date_start: '2020-06-01'
     date_end: '2020-08-01'
     description: Assembled electrical components currently aboard the International Space Station for client R&D projects. Introduced artificially intelligent and autonomous solutions including UIs, fluid detection and direction tracking, and phase microscopy.
+  
   - title: Research Student
-      company: Western Kentucky University
-      company_logo: org-gc
-      location: Bowling Green, Kentucky
-      date_start: '2018-01-01'
-      date_end: '2020-05-01'
-      description: Built classification system using ML in sci-kit Python on CICIDS-2017 dataset. Presented at regional conferences, such as ACM Mid-Southeast, and won best undergraduate poster. Also conducted a survey of metaheuristics for load balancing in WKU Cloud Lab’s Bioinformatics Cloud. Presented at WKU Student Reach Conference in March 2019.
+    company: Western Kentucky University
+    location: Bowling Green, Kentucky
+    date_start: '2018-01-01'
+    date_end: '2020-05-01'
+    description: Built classification system using ML in sci-kit Python on CICIDS-2017 dataset. Presented at regional conferences, such as ACM Mid-Southeast, and won best undergraduate poster. Also conducted a survey of metaheuristics for load balancing in WKU Cloud Lab’s Bioinformatics Cloud. Presented at WKU Student Reach Conference in March 2019.
         
 design:
   columns: '2'
