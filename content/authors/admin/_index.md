@@ -50,13 +50,14 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/sierra-wyllie-99a109195/
+- icon: cv
+  icon_pack: ai
+  link: uploads/wyllie_cv.pdf
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -65,5 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-I am a second year engineering science student at the University of Toronto. I am currently a member of the CleverHans Lab under Nicloas Papernot at University of Toronto and the Vector Institute. My research interest include fairness and security for trustworthy ML. 
+I am a second year engineering science student at the University of Toronto. I am currently a member of the CleverHans Lab under Nicolas Papernot at University of Toronto and the Vector Institute. My research interests include fairness and security for trustworthy ML. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/wyllie_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 

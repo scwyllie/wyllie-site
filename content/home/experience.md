@@ -34,7 +34,7 @@ experience:
   - title: Electrical and Software Engineering Intern
     company: Space Tango
     company_url: 'https://spacetango.com/'
-    location: California
+    location: Lexington, KY
     date_start: '2020-06-01'
     date_end: '2020-08-01'
     description: Assembled electrical components currently aboard the International Space Station for client R&D projects. Introduced artificially intelligent and autonomous solutions including UIs, fluid detection and direction tracking, and phase microscopy.
