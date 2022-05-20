@@ -29,7 +29,7 @@ experience:
     location: Toronto
     date_start: '2021-05-01'
     date_end: ''
-    description: Investigating fairness in machine learning, mentored by Prof. Nicolas Papernot in the CleverHans lab.
+    description: Investigating fairness in machine learning, mentored by Prof. Nicolas Papernot in the CleverHans trustworthy machine learning lab.
         
   - title: Electrical and Software Engineering Intern
     company: Space Tango
